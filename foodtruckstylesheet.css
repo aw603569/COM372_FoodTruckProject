@@ -1,0 +1,190 @@
+@import url(https://fonts.googleapis.com/css?family=Finger+Paint);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+
+
+body{
+  background-color:#9EA738;
+  margin:0px;
+  padding:0px;
+}
+
+h1{
+  font-family:"Finger Paint",sans-serif;
+  text-align: right;
+  font-size: 45px;
+  padding-right: 70px;
+  color:#5d1103;
+  word-spacing: 1px;
+  margin:0px;
+  }
+
+h2{
+  font-family:"Finger Paint",sans-serif;
+  text-align: right;
+  font-size: 20px;
+  margin:0px;
+  padding-right: 140px;
+  color:#EBF39A;
+  }
+
+h3{
+  text-align: right;
+  padding-right: 70px;
+  font-family: "Bree Serif", serif;
+  font-size: 35px;
+  color:#545b03;
+  }
+
+h4{
+  text-align: right;
+  padding-right: 70px;
+  font-family: "Bree Serif", serif;
+  font-size: 27px;
+  color:#0A133F;
+  }
+
+h5{
+  text-align: right;
+  padding-right: 70px;
+  font-family: "Bree Serif", serif;
+  font-size: 18px;
+  color:#0A133F;
+  }
+
+nav{
+  text-align: left;
+  padding-left:70px;
+  border-bottom: solid #0A133F 3px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-family: "Bree Serif",serif;
+  font-size: 20px;
+  border-top: solid #0A133F 3px;
+  width:985px;
+  margin-left: 50px;
+}
+
+nav a{
+  color:#EBF39A;
+  margin: 14px;
+  text-decoration: none;
+}
+
+ul{
+  text-align: right;
+  padding-right: 70px;
+  font-family: "Bree Serif", serif;
+  font-size: 18px;
+  color:#0A133F;
+  list-style: none;
+  line-height: 1.7;
+}
+
+#container{
+  margin:45px;
+}
+
+#container1{
+  width:550px;
+  float:right;
+}
+
+#container2{
+  float: right;
+  width: 590px;
+}
+
+#catchphrase{
+  text-align: right;
+  padding-right: 70px;
+  font-family: "Bree Serif", serif;
+  font-size: 35px;
+  color:#0A133F;
+  margin-bottom: 25px;
+  margin-left: 55px;
+  line-height: 1.7;
+
+}
+
+#twitter{
+  text-align: right;
+  font-family: "Bree Serif", serif;
+  font-size: 17px;
+  color:#545b03;
+  border-top:solid #0A133F 3px;
+  width:1055px;
+  margin-left: 50px;
+}
+
+#twitteronmenu{
+  text-align: right;
+  border-top:solid #0A133F 3px;
+  color:#545b03;
+  font-family: "Bree Serif", serif;
+  font-size: 17px;
+  margin-top: 1340px;
+  width:1055px;
+  margin-left: 50px;
+}
+
+#twitteronmission{
+  text-align: right;
+  border-top:solid #0A133F 3px;
+  color:#545b03;
+  font-family: "Bree Serif", serif;
+  font-size: 17px;
+  margin-top: 50px;
+  width:1055px;
+  margin-left: 50px;
+}
+
+#missionstatement{
+  text-align: right;
+  padding-right: 70px;
+  font-family: "Bree Serif", serif;
+  font-size: 20px;
+  color:#0A133F;
+  margin-left: 54px;
+  margin-top: 20px;
+  line-height: 1.7;
+  margin-bottom: 35px;
+}
+
+.BeanTruckLogo{
+  float: right;
+}
+
+.BlackBeans2{
+  margin-left: 130px;
+  margin-right: 140px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Hummus{
+  float:left;
+  margin-left:103px;
+  margin-top:48px;
+  margin-bottom:20px;
+}
+
+.redlentildal{
+  float:left;
+  margin-left:103px;
+  margin-top:90px;
+  margin-bottom:20px;
+}
+
+.falafel{
+  float:left;
+  margin-left:103px;
+  margin-top:90px;
+  margin-bottom:20px;
+}
+
+.redbeansandrice{
+  float:left;
+  margin-left:103px;
+  margin-top:90px;
+  margin-bottom:20px;
+}
